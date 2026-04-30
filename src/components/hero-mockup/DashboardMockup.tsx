@@ -28,7 +28,7 @@ export function DashboardMockup() {
         </div>
         <div className="flex-1 text-center">
           <div className="bg-white rounded-md border border-gray-200 w-64 mx-auto h-6 flex items-center justify-center text-[10px] text-gray-400">
-            app.labcore.io/dashboard
+            app.lumacore.io/dashboard
           </div>
         </div>
       </div>

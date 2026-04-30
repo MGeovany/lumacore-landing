@@ -11,14 +11,14 @@ export function DemoPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 sm:h-20 flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2 group cursor-pointer">
             <img
-              src="/images/logo-black.png"
-              alt="LabCore"
+              src="/images/logo-black.svg"
+              alt="LumaCore"
               className="h-3 sm:h-6 w-auto"
               width={24}
               height={24}
             />
             <span className="font-body font-semibold text-lg sm:text-xl tracking-tight text-gray-900 group-hover:text-cyan-600 transition-colors">
-              LabCore
+              LumaCore
             </span>
           </Link>
           <Link to="/">
@@ -34,7 +34,7 @@ export function DemoPage() {
           Solicitar demo
         </h1>
         <p className="mt-2 text-gray-600">
-          Elige un horario y te contactaremos para mostrarte LabCore.
+          Elige un horario y te contactaremos para mostrarte LumaCore.
         </p>
 
         <div className="mt-8">
@@ -50,7 +50,7 @@ export function DemoPage() {
         <p className="mt-8 text-sm text-gray-500">
           Si prefieres, escríbenos:{' '}
           <a
-            href="mailto:marlon.castro@thefndrs.com?subject=Solicitud de demo - LabCore"
+            href="mailto:marlon.castro@thefndrs.com?subject=Solicitud de demo - LumaCore"
             className="text-cyan-500 hover:text-cyan-600 underline"
           >
             marlon.castro@thefndrs.com

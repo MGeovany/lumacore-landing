@@ -3,7 +3,7 @@ import { createPortal } from 'react-dom'
 
 const CALENDLY_URL =
   import.meta.env.VITE_CALENDLY_DEMO_URL ??
-  'https://calendly.com/marlongeo1999/demo-labcore'
+  'https://calendly.com/marlongeo1999/demo-lumacore'
 
 type DemoModalProps = {
   isOpen: boolean

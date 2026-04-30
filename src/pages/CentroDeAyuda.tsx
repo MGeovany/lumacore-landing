@@ -4,7 +4,7 @@ import { LegalLayout } from './LegalLayout'
 import { Button } from '../components/ui/Button'
 
 const SUPPORT_EMAIL = 'marlon.castro@thefndrs.com'
-const DEFAULT_SUBJECT = 'Centro de ayuda - LabCore LIS'
+const DEFAULT_SUBJECT = 'Centro de ayuda - LumaCore LIS'
 
 export function CentroDeAyudaPage() {
   const [asunto, setAsunto] = useState(DEFAULT_SUBJECT)

@@ -97,7 +97,7 @@ export function Roles() {
             Pensado para cada rol
           </p>
           <h2 className="text-4xl md:text-5xl text-gray-900 mb-4 font-body">
-            Qué hace cada rol en LabCore
+            Qué hace cada rol en LumaCore
           </h2>
           <p className="mt-3 text-base text-gray-500 font-body">
             Flujos de trabajo adaptados a cada miembro de tu equipo de
@@ -166,7 +166,7 @@ export function Roles() {
                     {/* Right: tasks */}
                     <div>
                       <p className="text-xs font-semibold uppercase tracking-wider text-gray-500">
-                        Qué hace cada rol en LabCore
+                        Qué hace cada rol en LumaCore
                       </p>
                       <ul className="mt-4 flex flex-col gap-3">
                         {currentRole.tasks.map((task, i) => (

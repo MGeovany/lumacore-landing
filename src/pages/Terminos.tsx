@@ -26,7 +26,7 @@ export function TerminosPage() {
               1. Aceptación
             </h2>
             <p>
-              El acceso y uso de LabCore LIS («el Servicio») implica la
+              El acceso y uso de LumaCore LIS («el Servicio») implica la
               aceptación de estos términos de uso. Si no está de acuerdo, no
               utilice el Servicio. El Servicio se ofrece como software como
               servicio (SaaS) para la gestión de información de laboratorio.

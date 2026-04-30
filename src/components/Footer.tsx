@@ -3,7 +3,7 @@ import { HelpCircle, Mail, Shield, Scale } from 'lucide-react'
 
 const CURRENT_YEAR = new Date().getFullYear()
 const SUPPORT_EMAIL = 'marlon.castro@thefndrs.com'
-const CONTACT_MAILTO = `mailto:${SUPPORT_EMAIL}?subject=Contacto - LabCore LIS`
+const CONTACT_MAILTO = `mailto:${SUPPORT_EMAIL}?subject=Contacto - LumaCore LIS`
 
 const footerLinks = {
   soporte: [
@@ -28,7 +28,7 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-[auto_1fr_1fr]">
           <div>
             <p className="text-sm font-semibold tracking-tight text-gray-900">
-              LabCore LIS
+              LumaCore LIS
             </p>
             <p className="mt-1 text-xs text-gray-500">
               Sistema de trazabilidad
@@ -101,11 +101,11 @@ export function Footer() {
 
         <div className="mt-6 flex flex-col gap-2 border-t border-gray-200 pt-6 sm:mt-8 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
           <p className="text-xs text-gray-500">
-            © {CURRENT_YEAR} LabCore LIS. Todos los derechos reservados.
+            © {CURRENT_YEAR} LumaCore LIS. Todos los derechos reservados.
           </p>
           <p className="flex shrink-0 items-center gap-1.5 text-xs text-gray-500">
             <Shield className="size-3.5 shrink-0 text-gray-400" aria-hidden />
-            Datos seguros · LabCore LIS v1.0
+            Datos seguros · LumaCore LIS v1.0
           </p>
         </div>
       </div>

@@ -27,11 +27,11 @@ export function CTA() {
           </h2>
           <p className="mx-auto mt-4 max-w-lg text-base text-gray-500">
             Únete a laboratorios que ya entregan resultados más rápido con
-            LabCore.
+            LumaCore.
           </p>
           <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center sm:gap-6">
             <a
-              href="mailto:marlon.castro@thefndrs.com?subject=Contacto ventas - LabCore"
+              href="mailto:marlon.castro@thefndrs.com?subject=Contacto ventas - LumaCore"
               className="text-base font-medium text-gray-600 underline decoration-gray-300 underline-offset-4 transition-colors hover:text-gray-900 hover:decoration-gray-500"
             >
               Contactar ventas

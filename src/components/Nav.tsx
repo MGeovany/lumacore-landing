@@ -46,14 +46,14 @@ export function Nav() {
           onClick={() => setMobileOpen(false)}
         >
           <img
-            src="/images/logo-black.png"
-            alt="LabCore"
+            src="/images/logo-black.svg"
+            alt="LumaCore"
             className="h-3 sm:h-6 w-auto"
             width={24}
             height={24}
           />
           <span className="font-body font-semibold text-lg sm:text-xl tracking-tight text-gray-900 group-hover:text-cyan-600 transition-colors">
-            LabCore
+            LumaCore
           </span>
         </Link>
 

@@ -7,7 +7,7 @@ import {
 } from 'lucide-react'
 import { staggerContainer, staggerItem } from '../lib/motion'
 
-// Textos alineados con docs/flujo-end-to-end-labcore.md (A: origen, B: técnico, C: validación)
+// Textos alineados con docs/flujo-end-to-end-lumacore.md (A: origen, B: técnico, C: validación)
 const steps = [
   {
     num: 1,

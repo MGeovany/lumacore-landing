@@ -22,9 +22,9 @@ const items = [
   },
   {
     id: 4,
-    question: '¿Necesito seguro para usar LabCore?',
+    question: '¿Necesito seguro para usar LumaCore?',
     answer:
-      'No. LabCore es software para el laboratorio. Puedes usarlo para gestionar órdenes, muestras y resultados con o sin módulos de facturación a seguros.',
+      'No. LumaCore es software para el laboratorio. Puedes usarlo para gestionar órdenes, muestras y resultados con o sin módulos de facturación a seguros.',
   },
   {
     id: 5,
@@ -35,7 +35,7 @@ const items = [
   },
   {
     id: 6,
-    question: '¿Puedo probar LabCore antes de contratar?',
+    question: '¿Puedo probar LumaCore antes de contratar?',
     answer:
       'Sí. Solicita una demo y te mostramos el flujo completo: recepción, muestras, procesamiento y validación. Sin compromiso.',
   },

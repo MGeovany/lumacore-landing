@@ -26,7 +26,7 @@ export function PrivacidadPage() {
               1. Responsable del tratamiento
             </h2>
             <p>
-              LabCore LIS es un software como servicio (SaaS) de gestión de
+              LumaCore LIS es un software como servicio (SaaS) de gestión de
               información de laboratorio. El responsable del tratamiento de los
               datos personales en el marco del servicio es la entidad que
               proporciona el software. Para consultas sobre privacidad puede
@@ -51,7 +51,7 @@ export function PrivacidadPage() {
               (identificación, datos clínicos asociados a órdenes y resultados,
               registros de acceso y actividad). Estos datos son introducidos y
               gestionados por la organización cliente (por ejemplo, el
-              laboratorio o clínica) que utiliza LabCore LIS.
+              laboratorio o clínica) que utiliza LumaCore LIS.
             </p>
           </section>
 
