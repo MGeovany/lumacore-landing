@@ -14,7 +14,7 @@ export function LegalLayout({ children }: LegalLayoutProps) {
             className="flex items-center gap-2 text-sm font-medium text-gray-700 hover:text-gray-900"
           >
             <img
-              src="/images/logo-black.svg"
+              src="/images/logo-black.png"
               alt="LumaCore"
               className="h-6 w-auto"
               width={24}

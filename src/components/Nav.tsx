@@ -46,7 +46,7 @@ export function Nav() {
           onClick={() => setMobileOpen(false)}
         >
           <img
-            src="/images/logo-black.svg"
+            src="/images/logo-black.png"
             alt="LumaCore"
             className="h-3 sm:h-6 w-auto"
             width={24}
